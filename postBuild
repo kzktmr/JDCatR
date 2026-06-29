@@ -4,4 +4,4 @@ set -e
 echo 'PROJ_DATA=/srv/conda/envs/notebook/share/proj' >> ~/.Renviron
 echo 'PROJ_LIB=/srv/conda/envs/notebook/share/proj' >> ~/.Renviron
 
-rm -f README.md apt.txt environment.yml postBuild .Renviron
+rm -f README.md apt.txt environment.yml postBuild
