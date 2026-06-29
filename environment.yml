@@ -3,3 +3,5 @@ channels:
 dependencies:
   - r-base=4.4.3
   - r-tidyverse
+  - r-sf
+  - r-tmap
