@@ -6,6 +6,7 @@ dependencies:
   - r-sf
   - r-tmap
   - r-codetools
+  - r-readxl
   - gdal
   - sqlite
   - proj
