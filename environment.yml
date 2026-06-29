@@ -5,4 +5,4 @@ dependencies:
   - r-tidyverse
   - r-sf
   - r-tmap
-  - sqlite>=3.37
+  - sqlite
