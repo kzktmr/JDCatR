@@ -3,3 +3,6 @@ channels:
 dependencies:
   - r-base
   - r-tidyverse
+  - r-sf
+  - r-tmap
+  - r-readxl
