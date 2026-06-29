@@ -5,6 +5,7 @@ dependencies:
   - r-tidyverse
   - r-sf
   - r-tmap
+  - r-codetools
   - gdal
   - sqlite
   - proj
